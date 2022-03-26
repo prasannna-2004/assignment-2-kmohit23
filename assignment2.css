@@ -20,7 +20,7 @@ h2{
     font-size: 40px;
 }
 .backg{
-   background: linear-gradient(rgba(157,14,14,0), #4f0707),url(./wallpaper.png);
+   background: linear-gradient(rgba(157,14,14,0), #4f0707),url(./images/wallpaper.png);
    background-size: 1600px;
 
 }
